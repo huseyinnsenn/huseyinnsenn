@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Hüseyin Şen
 
-### Computer Engineering Student @Ankara University | DevOps & Cloud Enthusiast
+### Senior Computer Engineering Student @Ankara University | Aspiring DevOps & Cloud Architect
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Pursuing a B.S. in Computer Engineering at **Ankara University** (Expected 2026).
+- 🎓 **Education:** Senior **Computer Engineering** student at **Ankara University**, set to graduate in **June 2026**.
 - ☁️ **Focus:** Specializing in **DevOps**, **Cloud Computing**, and **Infrastructure as Code (IaC)**.
-- 🛠️ **Current Activity:** Building end-to-end pipelines using **Terraform**, **Kubernetes**, and **AWS**.
-- 🎯 **Goal:** Designing and maintaining scalable, reliable, and automated infrastructures.
+- 🛠️ **Current Activity:** Architecting automated workflows with **CI/CD pipelines**, provisioning cloud resources via **Terraform**, and managing scalable environments on **AWS**.
+- 🎯 **Goal:** Bridging the gap between development and operations by designing high-availability cloud architectures and "everything-as-code" solutions.
 
 ---
 
@@ -31,9 +31,9 @@
 
 ### 📂 Featured Projects
 
-- 🏗️ **[Project Name]**: IaC implementation on AWS using **Terraform**.
-- 🚢 **[Project Name]**: Microservices deployment on **Kubernetes** clusters.
-- 🤖 **[Project Name]**: Automation scripts developed with **Python**.
+- 🏗️ **[AWS IaC Project]**: Full infrastructure provisioning on AWS using **Terraform**.
+- 🚢 **[K8s Deployment]**: Automated microservices orchestration and deployment on **Kubernetes**.
+- 🤖 **[DevOps Automation]**: Custom **Python** & **Bash** scripts for CI/CD workflow optimization.
 
 ---
 
